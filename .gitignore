@@ -1,0 +1,9 @@
+# never commit source or secrets
+*.passphrase
+.passphrase
+payload.json
+gate.template.html
+survey-readout.html
+*.csv
+verify.py
+build.py
