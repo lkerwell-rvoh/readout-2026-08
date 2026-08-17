@@ -1,6 +1,6 @@
 # Protected documents
 
-Fifteen encrypted static pages, in two groups.
+Sixteen encrypted static pages, in two groups.
 
 **2027 strategy**
 
@@ -22,6 +22,7 @@ Fifteen encrypted static pages, in two groups.
 - `/maintenance/language/` — member-facing copy and house style
 - `/maintenance/lifecycle/` — lifecycle and marketing plan
 - `/maintenance/canvas/` — value proposition canvas
+- `/maintenance/notes/` — meeting notes, filtered to maintenance
 
 `/maintenance/prd/` redirects to `/maintenance/design-brief/`. The creative brief and PRD became the
 product design brief; the technical PRD is a separate document.
