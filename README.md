@@ -1,19 +1,20 @@
 # Protected documents
 
-Sixteen encrypted static pages, in two groups.
+Seventeen encrypted static pages, in two groups.
 
 **2027 strategy**
 
 - `/` — full research readout
 - `/deck/` — discussion deck
 - `/strategy/` — PM strategy
+- `/story/` — the whole picture
 
 **Maintenance phase** — start at the dashboard, which links to everything else
 
 - `/maintenance/dashboard/` — index of everything below
 - `/maintenance/kickoff/` — kickoff deck, 18 slides
-- `/maintenance/` — clickable prototype, 23 annotated screens
-- `/maintenance/mvp/` — MVP prototype, 18 screens, scoped for 3/1
+- `/maintenance/` — clickable prototype, 25 annotated screens
+- `/maintenance/mvp/` — MVP prototype, 21 screens, scoped for 3/1
 - `/maintenance/design-brief/` — product design brief
 - `/maintenance/mvp-design-brief/` — MVP product design brief
 - `/maintenance/prd-draft/` — north-star PRD draft
