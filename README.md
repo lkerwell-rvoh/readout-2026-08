@@ -13,8 +13,8 @@ Seventeen encrypted static pages, in two groups.
 
 - `/maintenance/dashboard/` — index of everything below
 - `/maintenance/kickoff/` — kickoff deck, 18 slides
-- `/maintenance/` — clickable prototype, 25 annotated screens
-- `/maintenance/mvp/` — MVP prototype, 21 screens, scoped for 3/1
+- `/maintenance/` — clickable prototype, 26 annotated screens
+- `/maintenance/mvp/` — MVP prototype, 22 screens, scoped for 3/1
 - `/maintenance/design-brief/` — product design brief
 - `/maintenance/mvp-design-brief/` — MVP product design brief
 - `/maintenance/prd-draft/` — north-star PRD draft
