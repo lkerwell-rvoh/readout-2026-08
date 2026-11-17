@@ -7,3 +7,4 @@ survey-readout.html
 *.csv
 verify.py
 build.py
+rotate.py
