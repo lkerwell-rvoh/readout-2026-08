@@ -1,6 +1,6 @@
 # Protected documents
 
-Seventeen encrypted static pages, in two groups.
+Eighteen encrypted static pages, in three groups.
 
 **2027 strategy**
 
@@ -27,6 +27,10 @@ Seventeen encrypted static pages, in two groups.
 
 `/maintenance/prd/` redirects to `/maintenance/design-brief/`. The creative brief and PRD became the
 product design brief; the technical PRD is a separate document.
+
+**MyPlan concept**
+
+- `/myplan/deck/` — early-concept walkthrough deck, 15 slides
 
 Each page is AES-256-CBC encrypted with a key derived via PBKDF2-HMAC-SHA256
 (6,000,000 iterations) and authenticated with HMAC-SHA256. Decryption happens
