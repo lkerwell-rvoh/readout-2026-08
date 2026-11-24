@@ -1,6 +1,6 @@
 # Protected documents
 
-Twenty-two encrypted static pages, in three groups.
+Twenty-three encrypted static pages, in three groups.
 
 **2027 strategy**
 
@@ -34,7 +34,8 @@ product design brief; the technical PRD is a separate document.
 - `/myplan/breakdown/` — one page: key components, tools to support intervention, and components of behavior change
 - `/myplan/concept/` — app concept, the plan as a syllabus, 21 screen sketches
 - `/myplan/review/` — UX review of the app concept
-- `/myplan/prototype/` — tappable prototype of the app concept, 21 screens and 9 working paths
+- `/myplan/prototype/` — tappable prototype of the app concept, 22 screens and 9 working paths
+- `/myplan/walkthrough/` — the first four weeks in 17 steps and three points, for the team
 
 Each page is AES-256-CBC encrypted with a key derived via PBKDF2-HMAC-SHA256
 (6,000,000 iterations) and authenticated with HMAC-SHA256. Decryption happens
